@@ -5,3 +5,5 @@ Example:
 population_searcher = city_population_searcher.PopulationSearcher()
 population = population_searcher.search("Челябинская область", "Златоуст")
 ```
+
+Data source: https://github.com/pensnarik/russian-cities
